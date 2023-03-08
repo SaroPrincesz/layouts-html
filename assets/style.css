@@ -1,0 +1,32 @@
+#container {
+  border: solid;
+  border-color: red;
+  height: 300px;
+  width: 300px;
+  padding: 10px;
+}
+#sub-container {
+  border: solid;
+  border-color: purple;
+  height: 50px;
+  width: 290px;
+}
+#main {
+  margin: 15px;
+  float: left;
+  border: solid;
+  border-color: green;
+  height: 150px;
+  width: 110px;
+}
+#sub-main {
+  margin: 15px;
+  float: right;
+  border: solid;
+  border-color: blue;
+  height: 150px;
+  width: 110px;
+}
+div {
+  text-align: center;
+}
